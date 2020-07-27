@@ -1,4 +1,4 @@
-# divvy
+# Divvy Bike Movement Analysis and Visualization
 
 The bulk of the data for this project came from https://www.divvybikes.com/system-data. 
 
