@@ -1,4 +1,4 @@
-# Divvy Bike Movement Analysis and Visualization
+# Movements of Bikes in Chicago's Divvy Bike System
 ## Data Analysis and Visualization
 
 #### Motivation:
